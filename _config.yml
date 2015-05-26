@@ -5,7 +5,7 @@ safe: false
 highlighter: pygments
 title: 只言片语
 description: 不忘初心，不负光阴
-theme: slate
+theme:slate
 disqusname: zypy333
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine
