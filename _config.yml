@@ -3,8 +3,8 @@ baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: 只言片语
+description: 不忘初心，不负光阴
 theme: slate
 disqusname: zypy333
 
