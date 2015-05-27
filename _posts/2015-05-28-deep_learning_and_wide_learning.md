@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 深度学习与广度学习
 category: 学习笔记
 comments: true
